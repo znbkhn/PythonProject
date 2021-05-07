@@ -11,4 +11,4 @@ The websites I often get absorbed in are; CultBeauty, ASOS, NastyGal, Liberty, B
 To make it easy for myself as it is my forst project, I'll start by blocking 3: ASOS, CultBeauty & Netflix
 
 <h2>Resources I Used</h2>
-DEV Community:
+DEV Community: https://dev.to/kalebu/how-to-build-website-blocker-in-python-a3f
