@@ -9,3 +9,6 @@ As someone who struggles with focus, I find myself browsing shopping sites & soc
 <h2>The Plan</h2>
 The websites I often get absorbed in are; CultBeauty, ASOS, NastyGal, Liberty, BeautyBay, Twitter, Instagram & Netflix.
 To make it easy for myself as it is my forst project, I'll start by blocking 3: ASOS, CultBeauty & Netflix
+
+<h2>Resources I Used</h2>
+DEV Community:
