@@ -14,3 +14,4 @@ To make it easy for myself as it is my forst project, I'll start by blocking 3: 
 DEV Community: https://dev.to/kalebu/how-to-build-website-blocker-in-python-a3f
 
 I am also in the process of creating an open-source project!
+It will be a to-do list where you get points and trophies when you tick things off.
