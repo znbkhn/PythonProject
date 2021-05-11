@@ -12,4 +12,7 @@ To make it easy for myself as it is my forst project, I'll start by blocking 3: 
 
 <h2>Resources I Used</h2>
 DEV Community: https://dev.to/kalebu/how-to-build-website-blocker-in-python-a3f
+<br>
 Hackernoon: https://hackernoon.com/a-simple-guide-to-building-a-website-blocker-in-python-px1x3t6f
+<br>
+Geeks for Geeks: https://www.geeksforgeeks.org/website-blocker-using-python/
