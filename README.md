@@ -15,6 +15,6 @@ DEV Community: https://dev.to/kalebu/how-to-build-website-blocker-in-python-a3f
 <br>
 Hackernoon: https://hackernoon.com/a-simple-guide-to-building-a-website-blocker-in-python-px1x3t6f
 <br>
-Geeks for Geeks: https://www.geeksforgeeks.org/website-blocker-using-python/
+Geeks for Geeks: https://www.geeksforgeeks.org/website-blocker-using-python/ 
 <br>
 Tutorials Point: https://www.tutorialspoint.com/website-blocker-using-python 
