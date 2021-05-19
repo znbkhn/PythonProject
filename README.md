@@ -19,3 +19,4 @@ Geeks for Geeks: https://www.geeksforgeeks.org/website-blocker-using-python/
 <br>
 Tutorials Point: https://www.tutorialspoint.com/website-blocker-using-python 
 <br>
+Python Engineer: https://www.python-engineer.com/posts/website-blocker-in-python/
