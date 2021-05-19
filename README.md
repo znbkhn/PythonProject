@@ -18,3 +18,4 @@ Hackernoon: https://hackernoon.com/a-simple-guide-to-building-a-website-blocker-
 Geeks for Geeks: https://www.geeksforgeeks.org/website-blocker-using-python/ 
 <br>
 Tutorials Point: https://www.tutorialspoint.com/website-blocker-using-python 
+<br>
